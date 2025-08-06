@@ -1,29 +1,24 @@
 <h1 align="center">Hi, I'm Tejas Kumar Singh 👋</h1>
-<p align="center">🚀 Backend Developer | Full Stack in Progress | CI‑4 · Node.js</p>
-
----
-
-### 🔥 Contribution Patterns
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/tejassinghrajput" alt="Contribution Heatmap" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejassinghrajput/github-stats/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejassinghrajput/github-stats/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Contributions" src="https://raw.githubusercontent.com/tejassinghrajput/github-stats/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+CI-4+%7C+Node.js+%7C+MySQL;Clean+Architecture+Lover+%7C+Linux+Native+%7C+Always+Learning!+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### 🔥 Contribution Activity
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=tejassinghrajput&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=tejassinghrajput&theme=tokyonight&hide_border=true" />
+  <img src="https://ghchart.rshah.org/tejassinghrajput" alt="Tejas's GitHub heatmap" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tejassinghrajput&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=tejassinghrajput&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -32,4 +27,28 @@
 
 ---
 
-<p align="center">💬 Consistent commits, consistent growth.</p>
+### 🛠️ My Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,postgres,docker,linux,git,vscode,bash" />
+</p>
+
+---
+
+### 🧠 Currently Exploring
+
+- 🔄 Switching from **CI-4** to **Node.js**
+- 🧪 Building **microservices**, APIs, and automation tools
+- 🎯 Preparing for **DSA + LLD + system design** interviews
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [singhtejas0001@gmail.com](mailto:singhtejas0001@gmail.com)
+- 💼 Portfolio: Coming soon!
+- 🟢 WhatsApp: +91 7652050611
+
+---
+
+<p align="center"><i>💬 Consistency. Curiosity. Code. Clean Design. 🚀</i></p>

@@ -1,34 +1,29 @@
-<h1 align="center">Hey, I'm Tejas Kumar Singh 👋</h1>
+<!-- Banner -->
+<h1 align="center">
+  Hey there! 👋 I'm Tejas Kumar Singh
+</h1>
 
 <p align="center">
-  Software Development Engineer • Open Source Enthusiast • DevOps Curious
+  🚀 Backend Developer | 🌐 Full Stack Enthusiast | 🧠 Problem Solver
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🧑‍💻 Working on real-time backend systems using PHP (CodeIgniter), Node.js & MySQL/PostgreSQL  
-- 🚀 Transitioning to Full-Stack with Spring Boot & React  
-- 📚 Strong interest in System Design, Clean Architecture & Scalable APIs  
-- 🌱 Currently enhancing my DSA and low-level design skills  
-- 🎯 Goal: SDE Role @ Product-based Startup before Oct 2025  
+- 💼 Currently Backend Developer at **ShipGlobal**
+- 🔧 Skilled in PHP (CI-4), JS, Node.js, SQL, and React
+- 🌱 Learning **Spring Boot**, **System Design**, and **Full Stack Engineering**
+- 🧠 DSA & LLD enthusiast preparing for top product-based companies
+- 🧪 I build, break, and rebuild stuff with clean architecture & automation in mind
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Heatmap (Real Contributions)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejassinghrajput&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=tejassinghrajput&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassinghrajput&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github.com/tejassinghrajput/github-stats/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
-
----
-
-### 🌱 Contribution Heatmap
 
 <p align="center">
   <img src="https://ghchart.rshah.org/tejassinghrajput" alt="Tejas' GitHub chart" />
@@ -36,10 +31,44 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 GitHub Stats & Activity
 
-```yaml
-Languages:    PHP, JavaScript, Java, SQL, HTML, CSS
-Frameworks:   CodeIgniter 4, Laravel, Node.js, React, Spring Boot
-Dev Tools:    Git, Docker, VS Code, GitHub Actions, Linux (Termux, Ubuntu)
-Databases:    MySQL, PostgreSQL, Firebase
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tejassinghrajput&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=tejassinghrajput&theme=radical&hide_border=true" />
+  <br><br>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassinghrajput&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,java,nodejs,react,html,css,mysql,postgres,git,docker,linux" />
+</p>
+
+---
+
+### 💼 Featured Projects
+
+| Project | Description | Stack | Live |
+|--------|-------------|-------|------|
+| **BuildNGo** | Freelance web dev landing page platform | Next.js, Tailwind, Vercel | [Live](https://buildngo.vercel.app) |
+| **RRCI** | SaaS-style dashboard in CI-4 with Tailwind | CI4, Tailwind, JS | Private |
+| **SiteFeiro** | My personal freelance brand with pricing & WhatsApp | HTML, CSS, JS | Coming Soon |
+
+---
+
+### 📬 Let's Connect!
+
+<p align="center">
+  <a href="mailto:sittefeiro@gmail.com"><img src="https://img.shields.io/badge/email-sittefeiro@gmail.com-blue?style=flat&logo=gmail" /></a>
+  <a href="https://wa.me/917042107933"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp" /></a>
+  <a href="https://linkedin.com/in/tejassinghrajput"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+</p>
+
+---
+
+> “I don’t just commit code, I commit to solving real-world problems.” – Tejas 🚀
+

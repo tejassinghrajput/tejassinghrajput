@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tejas Kumar Singh 👋</h1>
 
-<p align="center">
+<p align="center" style="width: 100%; height: "100%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+CI-4+%7C+Node.js+%7C+MySQL;Clean+Architecture+Lover+%7C+Linux+Native+%7C+Always+Learning!+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
